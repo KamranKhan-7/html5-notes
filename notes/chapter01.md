@@ -7,13 +7,13 @@
 ### Key Features Introduced in HTML5
 
 #### Semantic Tags →
- <header>, <footer>, <section>, <article>, <nav> (improves readability & SEO).
+`<header>`, `<footer>`, `<section>`, `<article>`, `<nav>` (improves readability & SEO).
 
 #### Native Multimedia →
- <audio> and <video> for media playback without plugins.
+ `<audio>` and `<video>` for media playback without plugins.
 
 #### Graphics Support →
- <canvas> for 2D drawing and animation, plus SVG support.
+ `<canvas>` for 2D drawing and animation, plus SVG support.
 
 #### Form Enhancements →
  New input types (email, date, number, range, color) and attributes (placeholder, required).
