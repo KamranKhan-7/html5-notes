@@ -16,12 +16,14 @@
 `<hr>`
 `<p>Paragraph Two</p>`
 ✅ Attributes (Deprecated in HTML5)
-Attribute	Description	Example
-color	Line color	`<hr color="red">`
-size	Line thickness	`<hr size="5">`
-width	Line width (px or %)	`<hr width="50%">`
-align	Alignment (left, right, center)	`<hr align="center">`
-noshade	Removes 3D shading	`<hr noshade>`
+| Attribute | Description                     | Example                |
+|-----------|---------------------------------|------------------------|
+| `color`   | Line color                      | `<hr color="red">`     |
+| `size`    | Line thickness                  | `<hr size="5">`        |
+| `width`   | Line width (px or %)            | `<hr width="50%">`     |
+| `align`   | Alignment (left, right, center) | `<hr align="center">`  |
+| `noshade` | Removes 3D shading              | `<hr noshade>`         |
+
 
 ✔️ Modern way (CSS):
 `<hr style="border: 2px solid blue; width: 70%;">`
