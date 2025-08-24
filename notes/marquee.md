@@ -20,7 +20,7 @@ The `<marquee>` tag in HTML is used to create scrolling text or images (horizont
 
 
 🔹 Example:
-```html <marquee behavior="alternate" direction="right" scrollamount="5" bgcolor="lightblue">
+```html
+ <marquee behavior="alternate" direction="right" scrollamount="5" bgcolor="lightblue">
   Welcome to My Website!
 </marquee>
-```
