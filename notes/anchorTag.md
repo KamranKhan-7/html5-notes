@@ -1,4 +1,4 @@
-## Anchor (<a>) Tag in HTML5  
+## Anchor `<a>` Tag in HTML5  
 
 The `<a>` tag is used to create hyperlinks.  
 It can link to web pages, sections in the same page, files, emails, phone numbers, or external resources.  
