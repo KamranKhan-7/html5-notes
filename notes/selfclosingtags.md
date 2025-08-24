@@ -55,3 +55,19 @@ Line 3
 Line 1
     Line 2 (indented)
 Line 3
+### self closing tags
+| Tags       | Function / Use |
+|-----------|----------------|
+| `<area>`  | Defines a clickable area inside an image map. |
+| `<base>`  | Specifies the base URL/target for all relative URLs in a document. |
+| `<br>`    | Inserts a single line break. |
+| `<col>`   | Specifies column properties for each column within a `<colgroup>`. |
+| `<embed>` | Embeds external content (like multimedia, plugins). |
+| `<hr>`    | Represents a thematic break (horizontal line) between content. |
+| `<img>`   | Embeds an image into the page. |
+| `<input>` | Defines an input control (text box, checkbox, radio, etc.). |
+| `<link>`  | Defines the relationship between the document and external resources (like CSS). |
+| `<meta>`  | Provides metadata about the document (character set, description, keywords). |
+| `<source>`| Specifies multiple media resources for `<audio>` or `<video>`. |
+| `<track>` | Specifies text tracks (subtitles, captions) for `<video>` or `<audio>`. |
+| `<wbr>`   | Suggests a line break opportunity inside text. |
