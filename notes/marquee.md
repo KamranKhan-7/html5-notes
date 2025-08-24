@@ -16,8 +16,11 @@ The `<marquee>` tag in HTML is used to create scrolling text or images (horizont
 | `loop`          | Number of times to repeat (default = infinite) | `<marquee loop="3">Only 3 times</marquee>` |
 | `bgcolor`       | Background color                           | `<marquee bgcolor="yellow">Hello</marquee>` |
 | `width` & `height` | Size of marquee area                    | `<marquee width="200" height="50">Text</marquee>` |
+ 
+
 
 🔹 Example:
-<marquee behavior="alternate" direction="right" scrollamount="5" bgcolor="lightblue">
+```html <marquee behavior="alternate" direction="right" scrollamount="5" bgcolor="lightblue">
   Welcome to My Website!
 </marquee>
+```
