@@ -36,16 +36,14 @@ Displays text in a monospaced (fixed-width) font.
 Useful for showing code or text exactly as written.
 
 ✅ Syntax
-html
-Copy
-Edit
+
 <pre>
   This text
     keeps spacing
   and line breaks
 </pre>
 ✅ Example
-html
+
 
 <pre>
 Line 1
